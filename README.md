@@ -55,7 +55,7 @@ $ cd dev.finances
 ### 📷 Prints:
 #### Desktop Version:
 <img src = "https://user-images.githubusercontent.com/62512557/119186718-dba26300-ba4e-11eb-9d29-22b9a3732be2.png" width = "90%"></img>
-<img src = "https://user-images.githubusercontent.com/68782453/115093867-0bab9300-9ef2-11eb-9191-6341e3417600.png" width = "90%"></img>
+
 
 #### Mobile version:
 <img src = "https://user-images.githubusercontent.com/68782453/115094389-b7091780-9ef3-11eb-8ff1-6ff5177411c5.png" width = "23%"></img> 
