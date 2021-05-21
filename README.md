@@ -11,8 +11,6 @@
 </h4>
 <hr />
 
-### ☁️ Deploy:
-http://dev.finances.surge.sh/
 
 ### ✨ Operation:
 
@@ -56,9 +54,10 @@ $ cd dev.finances
 
 ### 📷 Prints:
 #### Desktop Version:
-<img src = "https://user-images.githubusercontent.com/68782453/115093867-0bab9300-9ef2-11eb-9191-6341e3417600.png" width = "90%"> </img> <img src = "https : //user-images.githubusercontent.com/68782453/115093802-da32c780-9ef1-11eb-9eec-183f5026489e.png "width =" 90% "> </img> <img src =" https://user-
-images.githubusercontent.com/68782453/115093829-ee76c480-9ef1-11eb-9c6b-7fc15f45d253.png "width =" 90% "> </img> <img src =" https://user-
-images.githubusercontent.com/68782453/115093844-ff273a80-9ef1-11eb-9973-69df7d5ca1f1.png "width =" 90% "> </img>
+<img src = "https://user-images.githubusercontent.com/68782453/115093867-0bab9300-9ef2-11eb-9191-6341e3417600.png" width = "90%"> 
+</img> <img src = "https : //user-images.githubusercontent.com/68782453/115093802-da32c780-9ef1-11eb-9eec-183f5026489e.png "width =" 90% "> 
+</img> <img src =" https://user-images.githubusercontent.com/68782453/115093829-ee76c480-9ef1-11eb-9c6b-7fc15f45d253.png "width =" 90% "> 
+</img> <img src =" https://user-images.githubusercontent.com/68782453/115093844-ff273a80-9ef1-11eb-9973-69df7d5ca1f1.png "width =" 90% "> </img>
 
 #### Mobile version:
 <img src = "https://user-images.githubusercontent.com/68782453/115094389-b7091780-9ef3-11eb-8ff1-6ff5177411c5.png" width = "23%"> </img> <img src = "https : //user-images.githubusercontent.com/68782453/115094287-64c7f680-9ef3-11eb-8be0-8bbe5399383f.png "width =" 23% "> </img> <img src =" https://user-
