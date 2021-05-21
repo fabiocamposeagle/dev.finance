@@ -1,19 +1,18 @@
 <h1>dev.finance<h1>
 
-✨ Operation:
-
+✨ Operation:Operation
+        
    Check-in
-	 
+        
    Record of Exits
-	 
+        
    Total Calculation
-	 
+        
    Add transaction
-	 
+        
    Remove transaction
-	 
+        
    Table with the fields:
-	 
    Description
    Value
    Data
