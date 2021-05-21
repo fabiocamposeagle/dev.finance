@@ -60,6 +60,7 @@ $ cd dev.finances
 </img> <img src =" https://user-images.githubusercontent.com/68782453/115093844-ff273a80-9ef1-11eb-9973-69df7d5ca1f1.png "width =" 90% "> </img>
 
 #### Mobile version:
-<img src = "https://user-images.githubusercontent.com/68782453/115094389-b7091780-9ef3-11eb-8ff1-6ff5177411c5.png" width = "23%"> </img> <img src = "https : //user-images.githubusercontent.com/68782453/115094287-64c7f680-9ef3-11eb-8be0-8bbe5399383f.png "width =" 23% "> </img> <img src =" https://user-
-images.githubusercontent.com/68782453/115094318-79a48a00-9ef3-11eb-8b9a-1bf59affdca0.png "width =" 23% "> </img> <img src =" https://user-
-images.githubusercontent.com/68782453/115094359-9e006680-9ef3-11eb-8832-3f74560c5e58.png "width =" 23% "> </img>
+<img src = "https://user-images.githubusercontent.com/68782453/115094389-b7091780-9ef3-11eb-8ff1-6ff5177411c5.png" width = "23%"> 
+</img> <img src = "https://user-images.githubusercontent.com/68782453/115094287-64c7f680-9ef3-11eb-8be0-8bbe5399383f.png "width =" 23% "> 
+</img> <img src =" https://user-images.githubusercontent.com/68782453/115094318-79a48a00-9ef3-11eb-8b9a-1bf59affdca0.png "width =" 23% "> 
+</img> <img src =" https://user-images.githubusercontent.com/68782453/115094359-9e006680-9ef3-11eb-8832-3f74560c5e58.png "width =" 23% "> </img>
