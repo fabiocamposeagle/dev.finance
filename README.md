@@ -1,13 +1,13 @@
-<h2 align = 'center'>
-  <img src = "https://github.com//dev.finances/blob/main/assets/logo-green.PNG?raw=true" alt = "Logo Dev Finances" />
+<h2 align='center'>
+  <img src="https://github.com/julianapedroso/dev.finances/blob/main/assets/logo-green.PNG?raw=true" alt="Logo Dev Finances"/>
 </h2>
 
-<h2 align = 'center'>
-  <img alt = "GitHub language count" src = "https://img.shields.io/github/languages/count/fabiocamposeagle/dev.finances"> <img alt = "GitHub top language" src = "https: / /img.shields.io/github/languages/top/fabioeaglecampos/dev.finances ">
+<h2 align='center'>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/julianapedroso/dev.finances"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/julianapedroso/dev.finances">
 </h2>
 
-<h4 align = 'center'>
-👉 Status: Completed ✅👏
+<h4 align='center'>
+👉 Status: Concluído ✅👏
 </h4>
 <hr />
 
@@ -35,7 +35,7 @@ http://dev.finances.surge.sh/
 The following technologies were used in the construction of the project:
 
 - HTML
-- [JavaScript] (https://www.javascript.com/)
+- JavaScript (https://www.javascript.com/)
 
 ### 🎨 Layout:
 
